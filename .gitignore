@@ -1,0 +1,11 @@
+# Faturas e resultados (podem conter dados reais)
+faturas/
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Ficheiros da app Claude
+Claude outputs/
